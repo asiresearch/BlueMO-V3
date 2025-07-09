@@ -1,4 +1,4 @@
-# BlueMO-V3: An Extensive Dataset of Mathematical Olympiad Problems from the Celebrated Little Blue Book Series
+# BlueMO-V3: An Extensive Dataset of Mathematical Olympiad Problems
 
 **BlueMO-V3** is an extensive and challenging dataset featuring a comprehensive collection of mathematical olympiad problems and their detailed solutions. This dataset is meticulously curated from the highly respected **"Little Blue Book" (小蓝书) series (Third Edition)**, a renowned and indispensable resource for students in China preparing for rigorous national and international mathematical competitions.
 
