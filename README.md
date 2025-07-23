@@ -54,6 +54,6 @@ If you use the BlueMO-V3 dataset in your research, please consider citing it as 
       author={Zhang, Yifan and et al.},
       year={2025},
       publisher={GitHub},
-      howpublished={\url{https://github.com/agi-systems/BlueMO-V3}}
+      howpublished={\url{https://github.com/asiresearch/BlueMO-V3}}
 }
 ```
